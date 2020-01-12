@@ -1,8 +1,9 @@
-*Psst — looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+# 4 Awesome Css Tricks - I've Learned the hard way.
 
+Watch Video on [OrangeDigitals](https://orangedigitals.com).
 ---
 
-# svelte app
+## svelte app
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
